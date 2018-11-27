@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo /usr/bin/anaconda/bin/python -m pip install fastparquet
+sudo /usr/bin/anaconda/bin/python -m pip install pyarrow
