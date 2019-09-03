@@ -1,0 +1,21 @@
+name,height,weight,eyecolor,haircolor,jedi,species
+Anakin Skywalker,1.88,84,blue,blond,jedi,human
+Padme Amidala,1.65,45,brown,brown,no_jedi,human
+Luke Skywalker,1.72,77,blue,blond,jedi,human
+Leia Skywalker,1.5,49,brown,brown,no_jedi,human
+Qui-Gon Jinn,1.93,88.5,blue,brown,jedi,human
+Obi-Wan Kenobi,1.82,77,bluegray,auburn,jedi,human
+Han Solo,1.8,80,brown,brown,no_jedi,human
+Sheev Palpatine,1.73,75,blue,red,no_jedi,human
+R2-D2,0.96,32,NA,NA,no_jedi,droid
+C-3PO,1.67,75,NA,NA,no_jedi,droid
+Yoda,0.66,17,brown,brown,jedi,yoda
+Darth Maul,1.75,80,yellow,none,no_jedi,dathomirian
+Dooku,1.93,86,brown,brown,jedi,human
+Chewbacca,2.28,112,blue,brown,no_jedi,wookiee
+Jabba,3.9,NA,yellow,none,no_jedi,hutt
+Lando Calrissian,1.78,79,brown,blank,no_jedi,human
+Boba Fett,1.83,78,brown,black,no_jedi,human
+Jango Fett,1.83,79,brown,black,no_jedi,human
+Grievous,2.16,159,gold,black,no_jedi,kaleesh
+Chief Chirpa,1,50,black,gray,no_jedi,ewok
